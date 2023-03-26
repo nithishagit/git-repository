@@ -1,1 +1,0 @@
-a=b and b=a
